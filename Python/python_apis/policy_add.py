@@ -20,12 +20,12 @@ access_token = (response_dict['access_token'])
 url = "https://msigretail.connectedcar360.net/v1/api/policies/add"
 
 payload = json.dumps({
-  "Number": "MSIG-RETAIL-CARLOS-1",
+  "Number": "MSIG-test-CARLOS-1",
   "RequestedDeviceType": "Virtual",
   "DeliveryMethod": "ByHand",
   "Customer": {
     "Name": "CARLOS",
-    "Number": "000"
+    "Number": "111"
   },
   "Vehicle": {
     "VIN": "VINMSI11G001",
