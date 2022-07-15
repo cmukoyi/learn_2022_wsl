@@ -48,7 +48,7 @@ module.exports = {
     "logSnippet": true,
     "rewriteRules": [],
     "open": "local",
-    "browser": "/mnt/c/Program Files (x86)/Internet Explorer/iexplore.exe", //C:\Program Files (x86)\Internet Explorer
+    "browser": "default",
     "cors": false,
     "xip": false,
     "hostnameSuffix": false,
