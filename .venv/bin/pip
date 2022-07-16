@@ -1,4 +1,4 @@
-#!/home/carlos/learn_2022_wsl/.venv/bin/python3
+#!/home/carlos/learn_2022_wsl/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

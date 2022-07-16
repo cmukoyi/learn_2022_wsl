@@ -28,6 +28,7 @@ var a = {
 };
 console.log(a.my_property.b)
 
+//object grapgh 
 var c ={
     myProperty: [
         {d:'this'},
@@ -36,4 +37,4 @@ var c ={
         {g: 'Test'}
     ]
 }
-console.log(c.myProperty[0])
+
