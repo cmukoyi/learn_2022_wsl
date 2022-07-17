@@ -14,7 +14,7 @@ console.log(mySubstr);
 
  */
 
-let myEndsWith = second.endsWith('try.');
+/* let myEndsWith = second.endsWith('try.');
 console.log(myEndsWith);
 
 let myStartWith = second.startsWith('Do');
@@ -24,8 +24,9 @@ let myInclude = second.includes('There');
 console.log(myInclude);
 
 let myRepeat = 'Ha! '.repeat(3)
-console.log(myRepeat);
+console.log(myRepeat); */
 
+// triming
 let myTrim = '     bloated   ';
 console.log(myTrim.length);
 console.log(myTrim.trim().length);
